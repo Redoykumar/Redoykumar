@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="path_to_your_profile_picture" alt="Your Name" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/45695777?v=4" alt="Your Name" width="200" height="200">
 </div>
 
 # Hello, I'm Redoy Kumar Das!
