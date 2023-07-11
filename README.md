@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="path_to_your_profile_picture" alt="Your Name" width="200" height="200">
+</div>
+
 # Hello, I'm Redoy Kumar Das!
 
 [LinkedIn](https://www.linkedin.com/in/redoy-kumar-das/) | +880 174-448-4183 | redoykumar0@gmail.com | [GitHub](https://github.com/yourusername)
