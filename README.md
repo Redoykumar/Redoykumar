@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Saif Al Siam</a></b>
+                <b><a target="_blank" href="https://alsiam.com">Redoy Kumar Das</a></b>
         </samp>
 </h3>
 
@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
+    「 I am a software engineer from <b>Bangladesh</b> 」
     <br>
     <br>
   </samp>
@@ -41,7 +41,7 @@
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <a href="https://linkedin.com/in/saifalsiam" target="_blank">
+ <a href="https://www.linkedin.com/in/redoy-kumar-das/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <a href="https://dev.to/alsiam" target="_blank">
