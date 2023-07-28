@@ -8,15 +8,15 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a graduate in Computer Science 🎓 from Southeast University 🏛. I love using technology to solve real-life problems and enjoy guiding and mentoring newcomers in the tech field 💡. Currently, I focus on Web Development and am actively improving my skills in Data Structures and Algorithms ✨. I have experience as a Software Engineer at Trends Bird Limited, where I contributed to innovative projects👨🏻‍💻. I I am excited about new opportunities in the technology industry.🤓.
 
-Joined Github **4** years ago.
+Joined Github **6** years ago.
 
 Since then I pushed **2773**+ commits, opened **229**+ issues, submitted **294**+ pull requests, created **20**+ gists and contributed to **20**+ public repositories.
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<!-- <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a> -->
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
@@ -29,7 +29,7 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Redoykumar).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Redoykumar/Redoykumar/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 📫 &nbsp; How to reach me: redoykumar0@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
