@@ -1,21 +1,21 @@
 ## Hey 👋, I'm [Redoy kumar das!](https://github.com/Redoykumar/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/redoy-kumar-das/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
+[![Fiverr Badge](https://img.shields.io/badge/Fiverr-3b5998?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/redoykumar0)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/redoy_kumar)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-e4405f?style=flat-square&logo=Facebook&logoColor=white)](https://instagram.com/iampavangandhi/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-0088cc?style=flat-square&logo=Whatsapp&logoColor=white)](https://t.me/iampavangandhi)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-e4405f?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/Redoykumar0)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Redoykumardas)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-0088cc?style=flat-square&logo=Whatsapp&logoColor=white)]( https://wa.me/+8801639390229)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; [](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 I'm a graduate in Computer Science 🎓 from Southeast University 🏛. I love using technology to solve real-life problems and enjoy guiding and mentoring newcomers in the tech field 💡. Currently, I focus on Web Development and am actively improving my skills in Data Structures and Algorithms ✨. I have experience as a Software Engineer at Trends Bird Limited, where I contributed to innovative projects👨🏻‍💻. I  am excited about new opportunities in the technology industry.🤓.
 
-Joined Github **6** years ago.
+<!-- Joined Github **5** years ago.
 
 Since then I pushed **2773**+ commits, opened **229**+ issues, submitted **294**+ pull requests, created **20**+ gists and contributed to **20**+ public repositories.
 
-Like My Work?
+Like My Work? -->
 
 <!-- <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a> -->
 
@@ -25,18 +25,18 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I have practical experience working with Laravel, Django, Vue.js, and MySQL, among other technologies.
+- 🚀 &nbsp; I’m currently learning Ai model Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Redoykumar).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Redoykumar/Redoykumar/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: redoykumar0@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 📰 &nbsp; I have a passion for photography and enjoy capturing moments.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
@@ -46,12 +46,12 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="terminal"></code>
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
@@ -81,7 +81,7 @@ Like My Work?
   <table>
     <thead align="center">
       <tr border: none;>
-        <td><b>💻 Projects</b></td>
+        <td><b>💻 Top Projects</b></td>
         <td><b>🌟 Stars</b></td>
         <td><b>🍴 Forks</b></td>
         <td><b>🐛 Issues</b></td>
@@ -91,36 +91,36 @@ Like My Work?
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
+	      <td><a href="https://github.com/Redoykumar/Amikeuna-Demo"><b>💸 Amikeuna</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Redoykumar/Amikeuna-Demo?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Redoykumar/Amikeuna-Demo?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Redoykumar/Amikeuna-Demo?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Redoykumar/Amikeuna-Demo?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Redoykumar/Amikeuna-Demo?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/Redoykumar/FingerFlights-Demo"><b>🚀 Finger Flights</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Redoykumar/FingerFlights-Demo?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Redoykumar/FingerFlights-Demo?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Redoykumar/FingerFlights-Demo?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Redoykumar/FingerFlights-Demo?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Redoykumar/FingerFlights-Demo?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
+	      <td><a href="https://github.com/Redoykumar/University_management_system"><b>👨🏻‍💻 University Management System</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Redoykumar/University_management_system?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Redoykumar/University_management_system?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Redoykumar/University_management_system?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Redoykumar/University_management_system?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Redoykumar/University_management_system?style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>🤓 iampavangandhi</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/iampavangandhi?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/iampavangandhi?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+	      <td><a href="https://github.com/Redoykumar/Airplane-management-system"><b>🤓 Airplane-management-system</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Redoykumar/Airplane-management-system?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Redoykumar/Airplane-management-system?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Redoykumar/Airplane-management-system?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Redoykumar/Airplane-management-system?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Redoykumar/Airplane-management-system?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
@@ -131,10 +131,10 @@ Like My Work?
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+  	    <li><b>OS:</b> Kali Linux 2022.2a</li>
+	    <li><b>Laptop: </b> ASUS (Ryzen 5)</li>
+  	    <li><b>Browser: </b> Google Chrome</li>
+	    <li><b>Terminal: </b> gnome-terminal</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
