@@ -143,7 +143,8 @@ Like My Work? -->
 </details>
 
 #
-
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/redoykumar/count.svg)
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
